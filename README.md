@@ -48,10 +48,10 @@ This project delivers a real-time chat experience with user authentication, secu
 ## 🖼️ Demo Screenshots
 
 ### 🧑‍💻 Login Page
-![Login Screen](./screenshots/Screenshot 2025-08-02 225756.png)
+![Login Screen](./screenshots/Screenshot%202025-08-02%20225756.png)
 ### 💬 Chat Dashboard
-![Chat Dashboard](./screenshots/Screenshot 2025-08-02 230325.png)
-![Chat Dashboard](./screenshots/Screenshot 2025-08-02 230347.png)
+![Chat Dashboard 1](./screenshots/Screenshot%202025-08-02%20230325.png)
+![Chat Dashboard 2](./screenshots/Screenshot%202025-08-02%20230347.png)
 
 ---
 
