@@ -45,6 +45,16 @@ This project delivers a real-time chat experience with user authentication, secu
 - **Infrastructure As Code:** Kubernetes YAML manifests (`k8s/` directory)
 
 ---
+## 🖼️ Demo Screenshots
+
+### 🧑‍💻 Login Page
+![Login Screen](./screenshots/Screenshot 2025-08-02 225756)
+### 💬 Chat Dashboard
+![Chat Dashboard](./screenshots/Screenshot 2025-08-02 230325)
+![Chat Dashboard](./screenshots/Screenshot 2025-08-02 230347)
+
+---
+
 
 ## 🚀 Getting Started
 
@@ -143,6 +153,7 @@ If you're a DevOps engineer or backend enthusiast, feel free to improve the Dock
 - Auto-scaling (HPA)  
 
 ---
+
 
 ## 📄 License
 
