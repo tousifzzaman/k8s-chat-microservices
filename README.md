@@ -47,11 +47,17 @@ This project delivers a real-time chat experience with user authentication, secu
 ---
 ## 🖼️ Demo Screenshots
 
-### 🧑‍💻 Login Page
-![Login Screen](./screenshots/Screenshot%202025-08-02%20225756.png)
-### 💬 Chat Dashboard
-![Chat Dashboard 1](./screenshots/Screenshot%202025-08-02%20230325.png)
-![Chat Dashboard 2](./screenshots/Screenshot%202025-08-02%20230347.png)
+<div align="center">
+
+<h3>👨‍💻 Login Page</h3>
+<img src="./screenshots/Screenshot 2025-08-02 225756.png" width="400"/>
+
+<h3>💬 Chat Dashboard</h3>
+<img src="./screenshots/Screenshot 2025-08-02 230325.png" width="400"/>
+<img src="./screenshots/Screenshot 2025-08-02 230347.png" width="400"/>
+
+</div>
+
 
 ---
 
